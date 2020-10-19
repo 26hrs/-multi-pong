@@ -1,3 +1,5 @@
 // Accidental.swift
 //
-// Copyright (c) 201
+// Copyright (c) 2015 muukii
+//
+// P
