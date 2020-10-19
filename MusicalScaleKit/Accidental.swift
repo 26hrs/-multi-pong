@@ -1,3 +1,3 @@
 // Accidental.swift
 //
-// Co
+// Copyright (c) 201
