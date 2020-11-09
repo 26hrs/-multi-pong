@@ -2,4 +2,4 @@
 //
 // Copyright (c) 2015 muukii
 //
-// Permission
+// Permission is hereby grant
