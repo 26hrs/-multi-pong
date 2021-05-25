@@ -21,3 +21,4 @@
 // THE SOFTWARE.
 
 public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
+  case natural
