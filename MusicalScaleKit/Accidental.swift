@@ -23,4 +23,6 @@
 public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
   case natural
   case sharp
-  cas
+  case flat
+
+  publ
