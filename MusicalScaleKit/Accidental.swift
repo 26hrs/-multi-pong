@@ -25,4 +25,4 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
   case sharp
   case flat
 
-  public var descri
+  public var description: String {
