@@ -26,3 +26,4 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
   case flat
 
   public var description: String {
+    switch self {
