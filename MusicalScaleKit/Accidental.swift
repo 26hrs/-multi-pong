@@ -27,3 +27,5 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
 
   public var description: String {
     switch self {
+    case .natural:
+   
