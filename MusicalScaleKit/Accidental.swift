@@ -33,4 +33,7 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
       return "♭"
     case .sharp:
       return "#"
-    
+    }
+  }
+
+  var c
