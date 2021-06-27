@@ -36,4 +36,4 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
     }
   }
 
-  var c
+  var circleAngle:
