@@ -41,4 +41,5 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
     case .natural:
       return 0
     case .flat:
-      return
+      return -30
+    cas
