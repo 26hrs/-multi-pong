@@ -44,4 +44,7 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
       return -30
     case .sharp:
       return 30
-   
+    }
+  }
+
+  
