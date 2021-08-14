@@ -47,4 +47,4 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
     }
   }
 
-  public var debugDescripti
+  public var debugDescription: String {
