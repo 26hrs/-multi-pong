@@ -48,4 +48,4 @@ public enum Accidental: CustomStringConvertible, CustomDebugStringConvertible {
   }
 
   public var debugDescription: String {
-    re
+    return descripti
