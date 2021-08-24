@@ -26,3 +26,17 @@ public func == (lhs: Degree, rhs: Degree) -> Bool {
 }
 
 public enum Degree: CustomDebugStringConvertible, Hashable {
+
+  case one(Accidental)
+  case two(Accidental)
+  case three(Accidental)
+  case four(Accidental)
+  case Five(Accidental)
+  case six(Accidental)
+  case seven(Accidental)
+
+  public var accidental: Accidental {
+
+    switch self {
+    case .one(let accidental):
+      return accidental
