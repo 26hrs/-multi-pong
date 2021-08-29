@@ -40,3 +40,14 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
     switch self {
     case .one(let accidental):
       return accidental
+    case .two(let accidental):
+      return accidental
+    case .three(let accidental):
+      return accidental
+    case .four(let accidental):
+      return accidental
+    case .Five(let accidental):
+      return accidental
+    case .six(let accidental):
+      return accidental
+    case .seven(let accidental):
