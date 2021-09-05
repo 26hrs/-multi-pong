@@ -51,3 +51,13 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
     case .six(let accidental):
       return accidental
     case .seven(let accidental):
+      return accidental
+    }
+  }
+
+  public var naturalDegree: Degree {
+
+    switch self {
+    case .one:
+      return .one(.natural)
+    case .two:
