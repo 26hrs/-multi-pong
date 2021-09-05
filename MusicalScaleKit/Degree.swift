@@ -61,3 +61,21 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
     case .one:
       return .one(.natural)
     case .two:
+      return .two(.natural)
+    case .three:
+      return .three(.natural)
+    case .four:
+      return .four(.natural)
+    case .Five:
+      return .Five(.natural)
+    case .six:
+      return .six(.natural)
+    case .seven:
+      return .seven(.natural)
+    }
+  }
+
+  public var circleAngle: Int {
+
+    let baseAngle: Int
+    switch self {
