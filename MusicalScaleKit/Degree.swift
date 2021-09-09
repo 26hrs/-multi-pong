@@ -79,3 +79,22 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
 
     let baseAngle: Int
     switch self {
+    case .one:
+      baseAngle = 0
+    case .two:
+      baseAngle = 60
+    case .three:
+      baseAngle = 120
+    case .four:
+      baseAngle = 150
+    case .Five:
+      baseAngle = 210
+    case .six:
+      baseAngle = 270
+    case .seven:
+      baseAngle = 330
+    }
+
+    let resolveAngle = baseAngle + accidental.circleAngle
+
+    if resolveAngle < 0 {
