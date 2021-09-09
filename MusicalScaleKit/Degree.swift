@@ -98,3 +98,14 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
     let resolveAngle = baseAngle + accidental.circleAngle
 
     if resolveAngle < 0 {
+      assert(resolveAngle < -360, "Can't handle")
+      return (360 - resolveAngle) % 360
+    } else {
+      return resolveAngle % 360
+    }
+  }
+
+  public var baseDegreeNumber: Int {
+
+    switch self {
+    case .one:
