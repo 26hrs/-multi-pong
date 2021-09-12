@@ -121,3 +121,13 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
     case .six:
       return 6
     case .seven:
+      return 7
+    }
+  }
+
+  public var baseDegreeString: String {
+
+    return String(baseDegreeNumber)
+  }
+
+  public var debugDescription: String {
