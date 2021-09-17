@@ -131,3 +131,10 @@ public enum Degree: CustomDebugStringConvertible, Hashable {
   }
 
   public var debugDescription: String {
+    return accidental.description + baseDegreeString
+  }
+
+  public var hashValue: Int {
+    return circleAngle
+  }
+}
