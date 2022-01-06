@@ -2,4 +2,4 @@
 //  MusicalScaleKit.h
 //  MusicalScaleKit
 //
-//  Created by
+//  Created by muukii on 
