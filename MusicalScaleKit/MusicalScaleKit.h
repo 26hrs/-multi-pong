@@ -1,3 +1,4 @@
 //
 //  MusicalScaleKit.h
-//  Musi
+//  MusicalScaleKit
+//
