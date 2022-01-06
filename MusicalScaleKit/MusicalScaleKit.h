@@ -1,2 +1,2 @@
 //
-//  Musica
+//  MusicalScaleKit.h
