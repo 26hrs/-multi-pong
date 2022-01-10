@@ -8,4 +8,4 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version num
+//! Project version number for MusicalS
