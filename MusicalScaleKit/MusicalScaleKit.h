@@ -8,4 +8,5 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for MusicalS
+//! Project version number for MusicalScaleKit.
+FOUND
