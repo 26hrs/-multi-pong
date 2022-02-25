@@ -9,4 +9,4 @@
 #import <UIKit/UIKit.h>
 
 //! Project version number for MusicalScaleKit.
-FOUND
+FOUNDATION_EXPORT
