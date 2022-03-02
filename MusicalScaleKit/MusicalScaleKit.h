@@ -11,4 +11,5 @@
 //! Project version number for MusicalScaleKit.
 FOUNDATION_EXPORT double MusicalScaleKitVersionNumber;
 
-//! Project version string for MusicalSc
+//! Project version string for MusicalScaleKit.
+FOUN
