@@ -12,4 +12,4 @@
 FOUNDATION_EXPORT double MusicalScaleKitVersionNumber;
 
 //! Project version string for MusicalScaleKit.
-FOUNDATION_EXPORT const unsign
+FOUNDATION_EXPORT const unsigned char Musica
