@@ -14,4 +14,4 @@ FOUNDATION_EXPORT double MusicalScaleKitVersionNumber;
 //! Project version string for MusicalScaleKit.
 FOUNDATION_EXPORT const unsigned char MusicalScaleKitVersionString[];
 
-// In this header, you should import al
+// In this header, you should import all the public he
