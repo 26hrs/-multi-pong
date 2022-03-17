@@ -28,3 +28,13 @@ public func == (lhs: Note, rhs: Note) -> Bool {
 public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashable {
 
   case a(Accidental)
+  case b(Accidental)
+  case c(Accidental)
+  case d(Accidental)
+  case e(Accidental)
+  case f(Accidental)
+  case g(Accidental)
+
+  public init(key: Note, degree: Degree) {
+
+    let notes = Notes(initialNote: key, sortsharp: degree.accidental == .sharp)
