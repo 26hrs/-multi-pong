@@ -38,3 +38,20 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
   public init(key: Note, degree: Degree) {
 
     let notes = Notes(initialNote: key, sortsharp: degree.accidental == .sharp)
+
+    var noteMap: [Int : Note] = [:]
+    noteMap[-30] = notes[-1]
+    noteMap[0] = notes[0]
+    noteMap[30] = notes[1]
+    noteMap[60] = notes[2]
+    noteMap[90] = notes[3]
+    noteMap[120] = notes[4]
+    noteMap[150] = notes[5]
+    noteMap[180] = notes[6]
+    noteMap[210] = notes[7]
+    noteMap[240] = notes[8]
+    noteMap[270] = notes[9]
+    noteMap[300] = notes[10]
+    noteMap[330] = notes[11]
+    noteMap[360] = notes[12]
+    noteMap[390] = notes[13]
