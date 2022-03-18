@@ -55,3 +55,18 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
     noteMap[330] = notes[11]
     noteMap[360] = notes[12]
     noteMap[390] = notes[13]
+
+    guard let note = noteMap[degree.circleAngle] else {
+      fatalError("OMG")
+    }
+
+    self = note
+  }
+
+  var circleAngle: Int {
+
+    let rawAngle: Int
+    switch self {
+    case .a(let a):
+      rawAngle = 0 + a.circleAngle
+    case .b(let a):
