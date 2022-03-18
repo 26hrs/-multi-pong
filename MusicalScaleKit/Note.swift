@@ -70,3 +70,18 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
     case .a(let a):
       rawAngle = 0 + a.circleAngle
     case .b(let a):
+      rawAngle = 60 + a.circleAngle
+    case .c(let a):
+      rawAngle = 90 + a.circleAngle
+    case .d(let a):
+      rawAngle = 150 + a.circleAngle
+    case .e(let a):
+      rawAngle = 210 + a.circleAngle
+    case .f(let a):
+      rawAngle = 240 + a.circleAngle
+    case .g(let a):
+      rawAngle = 300 + a.circleAngle
+    }
+
+    if rawAngle < 0 {
+      assert(rawAngle >= -360, "Can't handle")
