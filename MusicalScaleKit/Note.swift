@@ -96,3 +96,20 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
   }
 
   public func flat() -> Note {
+    return applyAccidental(accidental: .flat)
+  }
+
+  public func sharp() -> Note {
+    return applyAccidental(accidental: .sharp)
+  }
+
+  public func applyAccidental(accidental: Accidental) -> Note {
+
+    let notes = Notes(initialNote: self, sortsharp: accidental == .sharp)
+    switch accidental {
+    case .natural:
+      switch self {
+      case .a:
+        return .a(.natural)
+      case .b:
+        return .b(.natural)
