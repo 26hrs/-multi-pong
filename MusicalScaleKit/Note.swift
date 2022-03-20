@@ -85,3 +85,14 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
 
     if rawAngle < 0 {
       assert(rawAngle >= -360, "Can't handle")
+      return (360 + rawAngle) % 360
+    } else {
+      return rawAngle % 360
+    }
+  }
+
+  public func natural() -> Note {
+    return applyAccidental(accidental: .natural)
+  }
+
+  public func flat() -> Note {
