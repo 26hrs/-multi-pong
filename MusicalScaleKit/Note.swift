@@ -113,3 +113,14 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
         return .a(.natural)
       case .b:
         return .b(.natural)
+      case .c:
+        return .c(.natural)
+      case .d:
+        return .d(.natural)
+      case .e:
+        return .e(.natural)
+      case .f:
+        return .f(.natural)
+      case .g:
+        return .g(.natural)
+      }
