@@ -134,3 +134,10 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
   public var debugDescription: String {
     return description
   }
+
+  public var description: String {
+    return baseNoteString + accidental.description
+  }
+
+  public var hashValue: Int {
+    return circleAngle
