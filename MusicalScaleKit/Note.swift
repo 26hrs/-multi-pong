@@ -124,3 +124,13 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
       case .g:
         return .g(.natural)
       }
+    case .flat:
+      return notes[-1]
+    case .sharp:
+      return notes[1]
+    }
+  }
+
+  public var debugDescription: String {
+    return description
+  }
