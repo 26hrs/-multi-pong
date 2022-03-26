@@ -141,3 +141,18 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
 
   public var hashValue: Int {
     return circleAngle
+  }
+
+  private var baseNoteString: String {
+
+    switch self {
+    case .a:
+      return "A"
+    case .b:
+      return "B"
+    case .c:
+      return "C"
+    case .d:
+      return "D"
+    case .e:
+      return "E"
