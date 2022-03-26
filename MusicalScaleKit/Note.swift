@@ -156,3 +156,14 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
       return "D"
     case .e:
       return "E"
+    case .f:
+      return "F"
+    case .g:
+      return "G"
+    }
+  }
+
+  private var accidental: Accidental {
+
+    switch self {
+    case .a(let accidental):
