@@ -167,3 +167,18 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
 
     switch self {
     case .a(let accidental):
+      return accidental
+    case .b(let accidental):
+      return accidental
+    case .c(let accidental):
+      return accidental
+    case .d(let accidental):
+      return accidental
+    case .e(let accidental):
+      return accidental
+    case .f(let accidental):
+      return accidental
+    case .g(let accidental):
+      return accidental
+    }
+  }
