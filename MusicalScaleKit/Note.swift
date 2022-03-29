@@ -182,3 +182,4 @@ public enum Note : CustomStringConvertible, CustomDebugStringConvertible, Hashab
       return accidental
     }
   }
+}
