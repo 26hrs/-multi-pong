@@ -22,3 +22,18 @@
 // THE SOFTWARE.
 
 public struct Notes: Collection {
+
+  public func index(after i: Int) -> Int {
+    return i + 1
+  }
+
+  public var startIndex: Int {
+    return 0
+  }
+
+  public var endIndex: Int {
+    return count
+  }
+
+  public func index(of element: Note) -> Int? {
+    return self.allNotes.index(of: element).flatMap { $0 - initialIndex }
