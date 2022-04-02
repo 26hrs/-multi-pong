@@ -51,3 +51,16 @@ public struct Notes: Collection {
       return note
     }
   }
+
+  public func generate() -> AnyIterator<Note> {
+    let count = self.allNotes.count
+    var i: Int = initialIndex
+    return AnyIterator { () -> Note in
+      let note = self.allNotes[i]
+      i += 1
+      if i == count {
+        i = 0
+      }
+      return note
+    }
+  }
