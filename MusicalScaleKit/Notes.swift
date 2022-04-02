@@ -37,3 +37,17 @@ public struct Notes: Collection {
 
   public func index(of element: Note) -> Int? {
     return self.allNotes.index(of: element).flatMap { $0 - initialIndex }
+  }
+
+  public subscript(i: Int) -> Note {
+
+    if i < 0 {
+      let index = ((abs(i) + (self.allNotes.count - 1 - initialIndex)) % (self.allNotes.count))
+      return self.allNotes.reversed()[index]
+
+    } else {
+      let index = ((i + initialIndex) % (self.allNotes.count))
+      let note = self.allNotes[index]
+      return note
+    }
+  }
