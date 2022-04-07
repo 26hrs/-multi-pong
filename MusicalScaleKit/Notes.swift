@@ -75,3 +75,16 @@ public struct Notes: Collection {
         .b(.natural),
         .c(.natural),
         .c(.sharp),
+        .d(.natural),
+        .d(.sharp),
+        .e(.natural),
+        .f(.natural),
+        .f(.sharp),
+        .g(.natural),
+        .g(.sharp),
+      ]
+    } else {
+
+      allNotes = [
+        .a(.natural),
+        .b(.flat),
