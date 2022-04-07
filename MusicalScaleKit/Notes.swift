@@ -64,3 +64,14 @@ public struct Notes: Collection {
       return note
     }
   }
+
+  public init(initialNote: Note, sortsharp: Bool) {
+
+    if sortsharp {
+
+      allNotes = [
+        .a(.natural),
+        .a(.sharp),
+        .b(.natural),
+        .c(.natural),
+        .c(.sharp),
