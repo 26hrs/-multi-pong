@@ -93,3 +93,12 @@ public struct Notes: Collection {
         .d(.flat),
         .d(.natural),
         .e(.flat),
+        .e(.natural),
+        .f(.natural),
+        .g(.flat),
+        .g(.natural),
+        .a(.flat),
+      ]
+    }
+
+    guard let index = self.allNotes.index(of: initialNote) else {
