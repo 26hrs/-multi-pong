@@ -88,3 +88,8 @@ public struct Notes: Collection {
       allNotes = [
         .a(.natural),
         .b(.flat),
+        .b(.natural),
+        .c(.natural),
+        .d(.flat),
+        .d(.natural),
+        .e(.flat),
