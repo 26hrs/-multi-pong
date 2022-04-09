@@ -102,3 +102,11 @@ public struct Notes: Collection {
     }
 
     guard let index = self.allNotes.index(of: initialNote) else {
+      fatalError("Not found note index")
+    }
+    self.initialIndex = index
+  }
+
+  private let initialIndex: Int
+  private let allNotes: [Note]
+}
