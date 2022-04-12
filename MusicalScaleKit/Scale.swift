@@ -23,3 +23,15 @@
 
 public struct Scale: CustomDebugStringConvertible {
   public let degrees: [Degree]
+  public let key: Note
+
+  public init(key: Note, degrees: [Degree]) {
+    self.key = key
+    self.degrees = degrees
+  }
+
+  public var debugDescription: String {
+    return "key: \(key.debugDescription)\n" + "degrees: \(degrees.debugDescription)\n" + "notes: \(notes)"
+  }
+
+  public var notes: [Note] {
