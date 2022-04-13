@@ -4,3 +4,25 @@
 	archiveVersion = 1;
 	classes = {
 	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4BDAA45D1E475B8700EA41ED /* MusicalScaleKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BDAA4531E475B8700EA41ED /* MusicalScaleKit.framework */; };
+		4BDAA4621E475B8700EA41ED /* MusicalScaleKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA4611E475B8700EA41ED /* MusicalScaleKitTests.swift */; };
+		4BDAA4641E475B8700EA41ED /* MusicalScaleKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BDAA4561E475B8700EA41ED /* MusicalScaleKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4BDAA47C1E475BC400EA41ED /* Accidental.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA4771E475BC400EA41ED /* Accidental.swift */; };
+		4BDAA47D1E475BC400EA41ED /* Degree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA4781E475BC400EA41ED /* Degree.swift */; };
+		4BDAA47E1E475BC400EA41ED /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA4791E475BC400EA41ED /* Note.swift */; };
+		4BDAA47F1E475BC400EA41ED /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA47A1E475BC400EA41ED /* Notes.swift */; };
+		4BDAA4801E475BC400EA41ED /* Scale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAA47B1E475BC400EA41ED /* Scale.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4BDAA45E1E475B8700EA41ED /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4BDAA44A1E475B8700EA41ED /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4BDAA4521E475B8700EA41ED;
+			remoteInfo = MusicalScaleKit;
+		};
