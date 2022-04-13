@@ -48,3 +48,7 @@ public struct Scale: CustomDebugStringConvertible {
       Note(key: key, degree: Degree.four(.natural)),
       Note(key: key, degree: Degree.Five(.natural)),
       Note(key: key, degree: Degree.six(.natural)),
+      Note(key: key, degree: Degree.seven(.natural)),
+    ]
+  }
+}
