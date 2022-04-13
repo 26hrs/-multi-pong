@@ -35,3 +35,16 @@ public struct Scale: CustomDebugStringConvertible {
   }
 
   public var notes: [Note] {
+
+    return degrees.map { Note(key: key, degree: $0) }
+  }
+
+  private func createMajorScale(key: Note) -> [Note] {
+
+    return [
+      Note(key: key, degree: Degree.one(.natural)),
+      Note(key: key, degree: Degree.two(.natural)),
+      Note(key: key, degree: Degree.three(.natural)),
+      Note(key: key, degree: Degree.four(.natural)),
+      Note(key: key, degree: Degree.Five(.natural)),
+      Note(key: key, degree: Degree.six(.natural)),
