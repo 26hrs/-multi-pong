@@ -26,3 +26,15 @@
 			remoteGlobalIDString = 4BDAA4521E475B8700EA41ED;
 			remoteInfo = MusicalScaleKit;
 		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4BDAA4531E475B8700EA41ED /* MusicalScaleKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MusicalScaleKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BDAA4561E475B8700EA41ED /* MusicalScaleKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MusicalScaleKit.h; sourceTree = "<group>"; };
+		4BDAA4571E475B8700EA41ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BDAA45C1E475B8700EA41ED /* MusicalScaleKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicalScaleKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BDAA4611E475B8700EA41ED /* MusicalScaleKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicalScaleKitTests.swift; sourceTree = "<group>"; };
+		4BDAA4631E475B8700EA41ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BDAA4771E475BC400EA41ED /* Accidental.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Accidental.swift; sourceTree = "<group>"; };
+		4BDAA4781E475BC400EA41ED /* Degree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Degree.swift; sourceTree = "<group>"; };
+		4BDAA4791E475BC400EA41ED /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
