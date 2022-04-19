@@ -76,3 +76,17 @@
 				4BDAA4531E475B8700EA41ED /* MusicalScaleKit.framework */,
 				4BDAA45C1E475B8700EA41ED /* MusicalScaleKitTests.xctest */,
 			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4BDAA4551E475B8700EA41ED /* MusicalScaleKit */ = {
+			isa = PBXGroup;
+			children = (
+				4BDAA4771E475BC400EA41ED /* Accidental.swift */,
+				4BDAA4781E475BC400EA41ED /* Degree.swift */,
+				4BDAA4791E475BC400EA41ED /* Note.swift */,
+				4BDAA47A1E475BC400EA41ED /* Notes.swift */,
+				4BDAA47B1E475BC400EA41ED /* Scale.swift */,
+				4BDAA4561E475B8700EA41ED /* MusicalScaleKit.h */,
+				4BDAA4571E475B8700EA41ED /* Info.plist */,
+			);
