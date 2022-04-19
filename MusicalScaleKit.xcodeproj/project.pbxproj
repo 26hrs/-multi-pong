@@ -53,3 +53,16 @@
 		4BDAA4591E475B8700EA41ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
+			files = (
+				4BDAA45D1E475B8700EA41ED /* MusicalScaleKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4BDAA4491E475B8700EA41ED = {
+			isa = PBXGroup;
+			children = (
+				4BDAA4551E475B8700EA41ED /* MusicalScaleKit */,
+				4BDAA4601E475B8700EA41ED /* MusicalScaleKitTests */,
