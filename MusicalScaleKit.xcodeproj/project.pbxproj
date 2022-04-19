@@ -66,3 +66,13 @@
 			children = (
 				4BDAA4551E475B8700EA41ED /* MusicalScaleKit */,
 				4BDAA4601E475B8700EA41ED /* MusicalScaleKitTests */,
+				4BDAA4541E475B8700EA41ED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4BDAA4541E475B8700EA41ED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4BDAA4531E475B8700EA41ED /* MusicalScaleKit.framework */,
+				4BDAA45C1E475B8700EA41ED /* MusicalScaleKitTests.xctest */,
+			);
