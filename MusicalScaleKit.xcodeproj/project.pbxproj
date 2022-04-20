@@ -90,3 +90,24 @@
 				4BDAA4561E475B8700EA41ED /* MusicalScaleKit.h */,
 				4BDAA4571E475B8700EA41ED /* Info.plist */,
 			);
+			path = MusicalScaleKit;
+			sourceTree = "<group>";
+		};
+		4BDAA4601E475B8700EA41ED /* MusicalScaleKitTests */ = {
+			isa = PBXGroup;
+			children = (
+				4BDAA4611E475B8700EA41ED /* MusicalScaleKitTests.swift */,
+				4BDAA4631E475B8700EA41ED /* Info.plist */,
+			);
+			path = MusicalScaleKitTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		4BDAA4501E475B8700EA41ED /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BDAA4641E475B8700EA41ED /* MusicalScaleKit.h in Headers */,
+			);
