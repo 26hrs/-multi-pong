@@ -140,3 +140,18 @@
 			buildPhases = (
 				4BDAA4581E475B8700EA41ED /* Sources */,
 				4BDAA4591E475B8700EA41ED /* Frameworks */,
+				4BDAA45A1E475B8700EA41ED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4BDAA45F1E475B8700EA41ED /* PBXTargetDependency */,
+			);
+			name = MusicalScaleKitTests;
+			productName = MusicalScaleKitTests;
+			productReference = 4BDAA45C1E475B8700EA41ED /* MusicalScaleKitTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
