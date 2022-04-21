@@ -111,3 +111,21 @@
 			files = (
 				4BDAA4641E475B8700EA41ED /* MusicalScaleKit.h in Headers */,
 			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		4BDAA4521E475B8700EA41ED /* MusicalScaleKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4BDAA4671E475B8700EA41ED /* Build configuration list for PBXNativeTarget "MusicalScaleKit" */;
+			buildPhases = (
+				4BDAA44E1E475B8700EA41ED /* Sources */,
+				4BDAA44F1E475B8700EA41ED /* Frameworks */,
+				4BDAA4501E475B8700EA41ED /* Headers */,
+				4BDAA4511E475B8700EA41ED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
