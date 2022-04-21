@@ -129,3 +129,14 @@
 			);
 			dependencies = (
 			);
+			name = MusicalScaleKit;
+			productName = MusicalScaleKit;
+			productReference = 4BDAA4531E475B8700EA41ED /* MusicalScaleKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		4BDAA45B1E475B8700EA41ED /* MusicalScaleKitTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4BDAA46A1E475B8700EA41ED /* Build configuration list for PBXNativeTarget "MusicalScaleKitTests" */;
+			buildPhases = (
+				4BDAA4581E475B8700EA41ED /* Sources */,
+				4BDAA4591E475B8700EA41ED /* Frameworks */,
