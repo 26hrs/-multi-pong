@@ -155,3 +155,19 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
+		4BDAA44A1E475B8700EA41ED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = muukii;
+				TargetAttributes = {
+					4BDAA4521E475B8700EA41ED = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = KU2QEJ9K3Z;
+						LastSwiftMigration = 0820;
+						ProvisioningStyle = Automatic;
+					};
+					4BDAA45B1E475B8700EA41ED = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = KU2QEJ9K3Z;
