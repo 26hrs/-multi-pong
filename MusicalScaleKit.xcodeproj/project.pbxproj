@@ -189,3 +189,19 @@
 			targets = (
 				4BDAA4521E475B8700EA41ED /* MusicalScaleKit */,
 				4BDAA45B1E475B8700EA41ED /* MusicalScaleKitTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4BDAA4511E475B8700EA41ED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4BDAA45A1E475B8700EA41ED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
