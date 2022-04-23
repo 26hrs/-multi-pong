@@ -171,3 +171,21 @@
 					4BDAA45B1E475B8700EA41ED = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = KU2QEJ9K3Z;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4BDAA44D1E475B8700EA41ED /* Build configuration list for PBXProject "MusicalScaleKit" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4BDAA4491E475B8700EA41ED;
+			productRefGroup = 4BDAA4541E475B8700EA41ED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4BDAA4521E475B8700EA41ED /* MusicalScaleKit */,
+				4BDAA45B1E475B8700EA41ED /* MusicalScaleKitTests */,
