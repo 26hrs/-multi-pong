@@ -216,3 +216,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BDAA47C1E475BC400EA41ED /* Accidental.swift in Sources */,
+				4BDAA47D1E475BC400EA41ED /* Degree.swift in Sources */,
+				4BDAA47E1E475BC400EA41ED /* Note.swift in Sources */,
+				4BDAA4801E475BC400EA41ED /* Scale.swift in Sources */,
+				4BDAA47F1E475BC400EA41ED /* Notes.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4BDAA4581E475B8700EA41ED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4BDAA4621E475B8700EA41ED /* MusicalScaleKitTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
