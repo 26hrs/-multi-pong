@@ -407,3 +407,14 @@
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4BDAA44D1E475B8700EA41ED /* Build configuration list for PBXProject "MusicalScaleKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BDAA4651E475B8700EA41ED /* Debug */,
+				4BDAA4661E475B8700EA41ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
