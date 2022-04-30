@@ -418,3 +418,18 @@
 				4BDAA4661E475B8700EA41ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4BDAA4671E475B8700EA41ED /* Build configuration list for PBXNativeTarget "MusicalScaleKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BDAA4681E475B8700EA41ED /* Debug */,
+				4BDAA4691E475B8700EA41ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4BDAA46A1E475B8700EA41ED /* Build configuration list for PBXNativeTarget "MusicalScaleKitTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4BDAA46B1E475B8700EA41ED /* Debug */,
+				4BDAA46C1E475B8700EA41ED /* Release */,
