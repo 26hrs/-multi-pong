@@ -433,3 +433,10 @@
 			buildConfigurations = (
 				4BDAA46B1E475B8700EA41ED /* Debug */,
 				4BDAA46C1E475B8700EA41ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4BDAA44A1E475B8700EA41ED /* Project object */;
+}
