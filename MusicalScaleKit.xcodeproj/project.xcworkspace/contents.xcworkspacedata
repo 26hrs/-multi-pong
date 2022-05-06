@@ -2,4 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MusicalScaleKit.xcodep
+      location = "self:MusicalScaleKit.xcodeproj">
+   </FileRef>
+</
