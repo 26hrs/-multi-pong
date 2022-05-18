@@ -10,4 +10,4 @@
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
-            buil
+            buildForArchiving = "YES
