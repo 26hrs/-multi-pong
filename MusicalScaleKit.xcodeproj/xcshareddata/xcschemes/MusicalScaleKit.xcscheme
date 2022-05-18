@@ -9,4 +9,5 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling
+            buildForProfiling = "YES"
+   
