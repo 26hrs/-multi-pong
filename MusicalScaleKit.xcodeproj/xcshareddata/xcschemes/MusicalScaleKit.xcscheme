@@ -11,4 +11,4 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            bui
+            buildForAnalyzing = "Y
