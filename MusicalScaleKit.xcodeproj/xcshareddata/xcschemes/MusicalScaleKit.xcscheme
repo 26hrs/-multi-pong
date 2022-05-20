@@ -13,4 +13,4 @@
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
-               BuildableIdent
+               BuildableIdentifier = "p
