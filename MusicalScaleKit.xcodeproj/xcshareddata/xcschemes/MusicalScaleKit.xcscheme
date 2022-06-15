@@ -29,4 +29,4 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
-            skip
+            skipped = "NO">
