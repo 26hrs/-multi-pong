@@ -30,4 +30,5 @@
       <Testables>
          <TestableReference
             skipped = "NO">
-            <BuildableRefere
+            <BuildableReference
+       
