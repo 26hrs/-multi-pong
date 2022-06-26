@@ -36,4 +36,4 @@
                BuildableName = "MusicalScaleKitTests.xctest"
                BlueprintName = "MusicalScaleKitTests"
                ReferencedContainer = "container:MusicalScaleKit.xcodeproj">
-            </Buil
+            </BuildableReference>
