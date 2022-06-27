@@ -37,4 +37,4 @@
                BlueprintName = "MusicalScaleKitTests"
                ReferencedContainer = "container:MusicalScaleKit.xcodeproj">
             </BuildableReference>
-         </Testa
+         </TestableReference>
