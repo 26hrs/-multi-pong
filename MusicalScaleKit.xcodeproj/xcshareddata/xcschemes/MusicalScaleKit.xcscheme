@@ -47,4 +47,5 @@
             BlueprintName = "MusicalScaleKit"
             ReferencedContainer = "container:MusicalScaleKit.xcodeproj">
          </BuildableReference>
-    
+      </MacroExpansion>
+ 
