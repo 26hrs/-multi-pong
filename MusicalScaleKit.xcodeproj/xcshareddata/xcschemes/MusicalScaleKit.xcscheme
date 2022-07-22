@@ -57,4 +57,5 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      ignoresPersistentStateOnLaunch = "N
+      ignoresPersistentStateOnLaunch = "NO"
+      deb
