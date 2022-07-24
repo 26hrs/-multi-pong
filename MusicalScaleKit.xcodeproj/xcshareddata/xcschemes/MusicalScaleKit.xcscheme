@@ -60,4 +60,5 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocationSimulation = "
+      allowLocationSimulation = "YES">
+      <M
