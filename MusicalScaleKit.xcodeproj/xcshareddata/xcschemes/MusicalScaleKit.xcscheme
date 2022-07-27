@@ -62,4 +62,5 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
       <MacroExpansion>
-         <BuildableRef
+         <BuildableReference
+     
