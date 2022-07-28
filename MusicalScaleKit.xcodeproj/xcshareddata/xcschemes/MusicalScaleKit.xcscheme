@@ -63,4 +63,5 @@
       allowLocationSimulation = "YES">
       <MacroExpansion>
          <BuildableReference
-            BuildableIdentifier
+            BuildableIdentifier = "primary"
+       
