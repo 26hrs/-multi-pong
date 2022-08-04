@@ -70,4 +70,5 @@
             ReferencedContainer = "container:MusicalScaleKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOpti
+      <AdditionalOptions>
+      <
