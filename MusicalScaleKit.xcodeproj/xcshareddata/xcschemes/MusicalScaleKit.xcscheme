@@ -75,4 +75,4 @@
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
-      shouldUseLaun
+      shouldUseLaunchSchemeArgsEnv
