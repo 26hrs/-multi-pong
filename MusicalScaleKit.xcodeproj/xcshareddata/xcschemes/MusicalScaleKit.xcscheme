@@ -77,4 +77,5 @@
       buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
-      useCustomWork
+      useCustomWorkingDirectory = "NO"
+ 
