@@ -80,4 +80,5 @@
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
       <MacroExpansion>
-         <Buildable
+         <BuildableReference
+       
