@@ -81,4 +81,5 @@
       debugDocumentVersioning = "YES">
       <MacroExpansion>
          <BuildableReference
-            BuildableIdentifier 
+            BuildableIdentifier = "primary"
+    
