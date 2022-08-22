@@ -86,4 +86,5 @@
             BuildableName = "MusicalScaleKit.framework"
             BlueprintName = "MusicalScaleKit"
             ReferencedContainer = "container:MusicalScaleKit.xcodeproj">
-         </BuildableReference
+         </BuildableReference>
+      </Ma
