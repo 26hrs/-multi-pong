@@ -90,4 +90,5 @@
       </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
-      buildConfigurati
+      buildConfiguration = "Debug">
+  
