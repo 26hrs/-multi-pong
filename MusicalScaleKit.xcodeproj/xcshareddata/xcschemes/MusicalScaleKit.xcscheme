@@ -92,4 +92,5 @@
    <AnalyzeAction
       buildConfiguration = "Debug">
    </AnalyzeAction>
-   <ArchiveAc
+   <ArchiveAction
+      b
