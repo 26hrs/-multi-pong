@@ -93,4 +93,4 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      b
+      buildConfig
