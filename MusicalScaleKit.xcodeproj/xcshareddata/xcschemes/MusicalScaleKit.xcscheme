@@ -93,4 +93,5 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Releas
+      buildConfiguration = "Release"
+      r
