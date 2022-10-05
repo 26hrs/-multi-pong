@@ -35,3 +35,22 @@ class MusicalScaleTests: XCTestCase {
 
     do { // C
       let note = Note.c(.natural)
+      XCTAssertEqual(note.sharp(), Note.c(.sharp))
+    }
+
+    do { // D
+      let note = Note.d(.natural)
+      XCTAssertEqual(note.sharp(), Note.d(.sharp))
+    }
+
+    do { // E
+      let note = Note.e(.natural)
+      XCTAssertEqual(note.sharp(), Note.e(.sharp))
+    }
+
+    do { // F
+      let note = Note.f(.natural)
+      XCTAssertEqual(note.sharp(), Note.f(.sharp))
+    }
+
+    do { // G
