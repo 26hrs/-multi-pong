@@ -24,3 +24,14 @@ class MusicalScaleTests: XCTestCase {
   func testsharp() {
 
     do { // A
+      let note = Note.a(.natural)
+      XCTAssertEqual(note.sharp(), Note.a(.sharp))
+    }
+
+    do { // B
+      let note = Note.b(.natural)
+      XCTAssertEqual(note.sharp(), Note.b(.sharp))
+    }
+
+    do { // C
+      let note = Note.c(.natural)
