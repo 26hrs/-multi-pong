@@ -68,3 +68,17 @@ class MusicalScaleTests: XCTestCase {
     XCTAssertEqual(n.sharp().sharp(), Note.b(.natural))
     XCTAssertEqual(n.sharp().sharp().sharp(), Note.c(.natural))
   }
+
+  func testIonialScale() {
+
+    let major = Scale(
+      key: .c(.natural),
+      degrees: [
+        .one(.natural),
+        .two(.natural),
+        .three(.natural),
+        .four(.natural),
+        .Five(.natural),
+        .six(.natural),
+        .seven(.natural),
+        ]
