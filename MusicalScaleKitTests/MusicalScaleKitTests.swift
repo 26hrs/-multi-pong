@@ -82,3 +82,24 @@ class MusicalScaleTests: XCTestCase {
         .six(.natural),
         .seven(.natural),
         ]
+    )
+
+    let _major: [Note] = [
+      .c(.natural),
+      .d(.natural),
+      .e(.natural),
+      .f(.natural),
+      .g(.natural),
+      .a(.natural),
+      .b(.natural),
+      ]
+
+    XCTAssertEqual(major.notes, _major)
+
+    print(major)
+  }
+
+  func testDorianScale() {
+
+    let scale = Scale(
+      key: .c(.natural),
