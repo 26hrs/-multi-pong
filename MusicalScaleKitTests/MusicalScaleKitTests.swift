@@ -103,3 +103,15 @@ class MusicalScaleTests: XCTestCase {
 
     let scale = Scale(
       key: .c(.natural),
+      degrees: [
+        .one(.natural),
+        .two(.natural),
+        .three(.flat),
+        .four(.natural),
+        .Five(.natural),
+        .six(.natural),
+        .seven(.flat),
+        ]
+    )
+
+    let _scale: [Note] = [
