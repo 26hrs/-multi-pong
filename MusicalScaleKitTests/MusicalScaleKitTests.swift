@@ -127,3 +127,16 @@ class MusicalScaleTests: XCTestCase {
     XCTAssertEqual(scale.notes, _scale)
     print(scale)
   }
+
+  func testPhrigianScale() {
+
+    let scale = Scale(
+      key: .c(.natural),
+      degrees: [
+        .one(.natural),
+        .two(.flat),
+        .three(.flat),
+        .four(.natural),
+        .Five(.natural),
+        .six(.flat),
+        .seven(.flat),
