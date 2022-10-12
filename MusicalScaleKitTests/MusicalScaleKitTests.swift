@@ -140,3 +140,11 @@ class MusicalScaleTests: XCTestCase {
         .Five(.natural),
         .six(.flat),
         .seven(.flat),
+        ]
+    )
+
+    let _scale: [Note] = [
+      .c(.natural),
+      .d(.flat),
+      .e(.flat),
+      .f(.natural),
