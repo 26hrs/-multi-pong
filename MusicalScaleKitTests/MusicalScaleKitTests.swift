@@ -148,3 +148,14 @@ class MusicalScaleTests: XCTestCase {
       .d(.flat),
       .e(.flat),
       .f(.natural),
+      .g(.natural),
+      .a(.flat),
+      .b(.flat),
+      ]
+
+    XCTAssertEqual(scale.notes, _scale)
+  }
+
+  func testLydianScale() {
+
+    let scale = Scale(
