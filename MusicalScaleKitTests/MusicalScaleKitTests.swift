@@ -159,3 +159,13 @@ class MusicalScaleTests: XCTestCase {
   func testLydianScale() {
 
     let scale = Scale(
+      key: .c(.natural),
+      degrees: [
+        .one(.natural),
+        .two(.natural),
+        .three(.natural),
+        .four(.sharp),
+        .Five(.natural),
+        .six(.natural),
+        .seven(.natural),
+        ]
