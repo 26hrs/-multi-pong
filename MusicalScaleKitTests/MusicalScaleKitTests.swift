@@ -169,3 +169,18 @@ class MusicalScaleTests: XCTestCase {
         .six(.natural),
         .seven(.natural),
         ]
+    )
+
+    let _scale: [Note] = [
+      .c(.natural),
+      .d(.natural),
+      .e(.natural),
+      .f(.sharp),
+      .g(.natural),
+      .a(.natural),
+      .b(.natural),
+      ]
+
+    XCTAssertEqual(scale.notes, _scale)
+  }
+}
