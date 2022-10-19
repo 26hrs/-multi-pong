@@ -1,3 +1,3 @@
 import PackageDescription
 
-let
+let package = Pa
