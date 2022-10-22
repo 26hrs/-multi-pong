@@ -1,4 +1,4 @@
 import PackageDescription
 
 let package = Package(
-    name: "Music
+    name: "MusicalScaleKit
