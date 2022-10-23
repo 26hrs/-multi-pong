@@ -1,3 +1,3 @@
 # MusicalScaleKit
 
-[![CI Status](
+[![CI Status](http://img.s
