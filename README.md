@@ -1,3 +1,3 @@
 # MusicalScaleKit
 
-[![CI Status](http://img.shields.io/tr
+[![CI Status](http://img.shields.io/travis/muukii
