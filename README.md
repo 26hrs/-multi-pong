@@ -1,3 +1,3 @@
 # MusicalScaleKit
 
-[![CI Status](http://img.shields.io/travis/muukii/MusicalScaleKit.svg?style=flat
+[![CI Status](http://img.shields.io/travis/muukii/MusicalScaleKit.svg?style=flat)](https:/
