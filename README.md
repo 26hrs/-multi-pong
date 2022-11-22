@@ -5,4 +5,6 @@
 [![License](https://img.shields.io/cocoapods/l/MusicalScaleKit.svg?style=flat)](http://cocoapods.org/pods/MusicalScaleKit)
 [![Platform](https://img.shields.io/cocoapods/p/MusicalScaleKit.svg?style=flat)](http://cocoapods.org/pods/MusicalScaleKit)
 
-## Exa
+## Example
+
+### Crea
