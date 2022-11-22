@@ -7,4 +7,6 @@
 
 ## Example
 
-### Crea
+### Create from ScaleDegree
+
+`
