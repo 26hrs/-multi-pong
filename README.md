@@ -9,4 +9,5 @@
 
 ### Create from ScaleDegree
 
-`
+```swift
+public st
