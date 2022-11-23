@@ -10,4 +10,6 @@
 ### Create from ScaleDegree
 
 ```swift
-public struct Sca
+public struct Scale {
+
+    public let degrees: [Degr
