@@ -10,4 +10,4 @@
 ### Create from ScaleDegree
 
 ```swift
-public st
+public struct Sca
