@@ -12,4 +12,6 @@
 ```swift
 public struct Scale {
 
-    public let degrees: [Degr
+    public let degrees: [Degree]
+
+    pub
