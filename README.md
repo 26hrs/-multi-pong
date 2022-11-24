@@ -14,4 +14,6 @@ public struct Scale {
 
     public let degrees: [Degree]
 
-    pub
+    public let key: Note
+
+ 
