@@ -17,3 +17,5 @@ public struct Scale {
     public let key: Note
 
     public init(key: Note, degrees: [Degree])    
+
+    public var not
