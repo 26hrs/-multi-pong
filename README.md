@@ -16,4 +16,4 @@ public struct Scale {
 
     public let key: Note
 
-    public init
+    public init(key: No
