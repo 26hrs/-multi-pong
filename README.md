@@ -16,4 +16,4 @@ public struct Scale {
 
     public let key: Note
 
-    public init(key: Note, degrees: [Degr
+    public init(key: Note, degrees: [Degree])    
