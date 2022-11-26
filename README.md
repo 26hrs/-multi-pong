@@ -19,3 +19,7 @@ public struct Scale {
     public init(key: Note, degrees: [Degree])    
 
     public var notes: [Note] { get }
+}
+```
+
+#### Get
