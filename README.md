@@ -18,4 +18,4 @@ public struct Scale {
 
     public init(key: Note, degrees: [Degree])    
 
-    public var not
+    public var notes: [Note] { get }
