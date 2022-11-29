@@ -22,4 +22,4 @@ public struct Scale {
 }
 ```
 
-#### Get
+#### Get IonianScale(
