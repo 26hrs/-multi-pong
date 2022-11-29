@@ -24,4 +24,5 @@ public struct Scale {
 
 #### Get IonianScale(MajorScale)
 
-```
+```swift
+let ioni
