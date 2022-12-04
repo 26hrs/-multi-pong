@@ -26,4 +26,5 @@ public struct Scale {
 
 ```swift
 let ionianScale = Scale(
-    key:
+    key: .C(.natural),
+  
