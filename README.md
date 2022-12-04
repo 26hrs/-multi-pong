@@ -25,4 +25,5 @@ public struct Scale {
 #### Get IonianScale(MajorScale)
 
 ```swift
-let ionianScale = 
+let ionianScale = Scale(
+    key:
