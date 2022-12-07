@@ -28,3 +28,4 @@ public struct Scale {
 let ionianScale = Scale(
     key: .C(.natural),
     degrees: [
+        .one(.n
