@@ -29,4 +29,5 @@ let ionianScale = Scale(
     key: .C(.natural),
     degrees: [
         .one(.natural),
-        .two(.natur
+        .two(.natural),
+      
