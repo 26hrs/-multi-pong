@@ -30,4 +30,4 @@ let ionianScale = Scale(
     degrees: [
         .one(.natural),
         .two(.natural),
-        .three(.nat
+        .three(.natural)
