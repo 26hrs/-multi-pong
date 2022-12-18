@@ -41,4 +41,6 @@ let ionianScale = Scale(
 print(ionianScale)
 ```
 
-``
+```
+key: C
+d
