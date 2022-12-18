@@ -35,4 +35,7 @@ let ionianScale = Scale(
         .five(.natural),
         .six(.natural),
         .seven(.natural),
-    
+    ]
+)
+
+print(ionian
