@@ -38,4 +38,7 @@ let ionianScale = Scale(
     ]
 )
 
-print(ionian
+print(ionianScale)
+```
+
+``
