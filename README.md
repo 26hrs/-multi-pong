@@ -43,4 +43,4 @@ print(ionianScale)
 
 ```
 key: C
-d
+degrees:
