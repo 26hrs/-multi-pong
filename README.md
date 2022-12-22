@@ -44,4 +44,4 @@ print(ionianScale)
 ```
 key: C
 degrees: [1, 2, 3, 4, 5, 6, 7]
-notes:
+notes: [C, D, E, F, G, A, B
