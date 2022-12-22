@@ -43,4 +43,4 @@ print(ionianScale)
 
 ```
 key: C
-degrees:
+degrees: [1, 2, 3, 
