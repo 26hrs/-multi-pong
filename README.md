@@ -50,4 +50,5 @@ notes: [C, D, E, F, G, A, B]
 #### Get DorianScale
 
 ```swift
-let dorianScale =
+let dorianScale = Scale(
+    k
