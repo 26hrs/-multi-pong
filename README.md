@@ -51,4 +51,4 @@ notes: [C, D, E, F, G, A, B]
 
 ```swift
 let dorianScale = Scale(
-    k
+    key: .C(.natu
