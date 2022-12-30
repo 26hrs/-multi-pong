@@ -53,4 +53,4 @@ notes: [C, D, E, F, G, A, B]
 let dorianScale = Scale(
     key: .C(.natural),
     degrees: [
-  
+      
