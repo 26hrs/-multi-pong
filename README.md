@@ -54,4 +54,4 @@ let dorianScale = Scale(
     key: .C(.natural),
     degrees: [
         .one(.natural),
-  
+        .t
