@@ -55,4 +55,5 @@ let dorianScale = Scale(
     degrees: [
         .one(.natural),
         .two(.natural),
-        .th
+        .three(.flat),
+     
