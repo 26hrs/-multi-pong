@@ -58,4 +58,5 @@ let dorianScale = Scale(
         .three(.flat),
         .four(.natural),
         .five(.natural),
-        .six(.natura
+        .six(.natural),
+        .
