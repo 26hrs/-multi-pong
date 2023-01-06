@@ -63,4 +63,7 @@ let dorianScale = Scale(
     ]
 )
 
-print(dorianS
+print(dorianScale)
+```
+
+```
