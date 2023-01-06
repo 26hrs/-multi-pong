@@ -67,3 +67,5 @@ print(dorianScale)
 ```
 
 ```
+key: C
+degr
