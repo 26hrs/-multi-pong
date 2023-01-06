@@ -68,4 +68,4 @@ print(dorianScale)
 
 ```
 key: C
-degr
+degrees: [1, 2, 
