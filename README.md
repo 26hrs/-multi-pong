@@ -74,4 +74,5 @@ notes: [C, D, D#, F, G, A, A#]
 
 ### Create Note
 
-```
+```swift
+let a
