@@ -72,4 +72,6 @@ degrees: [1, 2, ♭3, 4, 5, 6, ♭7]
 notes: [C, D, D#, F, G, A, A#]
 ```
 
-### Create
+### Create Note
+
+```
