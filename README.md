@@ -75,4 +75,5 @@ notes: [C, D, D#, F, G, A, A#]
 ### Create Note
 
 ```swift
-let a = Note.a(.natu
+let a = Note.a(.natural)
+let a_fla
