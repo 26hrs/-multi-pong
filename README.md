@@ -77,4 +77,4 @@ notes: [C, D, D#, F, G, A, A#]
 ```swift
 let a = Note.a(.natural)
 let a_flat = Note.a(.flat)
-let a_sharp = Not
+let a_sharp = Note.a(.sharp
