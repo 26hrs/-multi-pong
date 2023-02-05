@@ -82,4 +82,5 @@ let a_sharp = Note.a(.sharp)
 
 or
 
-```s
+```swift
+let a = Note.
