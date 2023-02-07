@@ -83,4 +83,4 @@ let a_sharp = Note.a(.sharp)
 or
 
 ```swift
-let a = Note.
+let a = Note.a(.natural)
