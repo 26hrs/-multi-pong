@@ -85,4 +85,7 @@ or
 ```swift
 let a = Note.a(.natural)
 let a_flat = a.flat()
-let a_sharp = a.sharp
+let a_sharp = a.sharp()
+```
+
+## Req
