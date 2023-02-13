@@ -92,4 +92,4 @@ let a_sharp = a.sharp()
 
 ## Installation
 
-Music
+MusicalScaleKit is a
