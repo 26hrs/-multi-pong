@@ -92,4 +92,4 @@ let a_sharp = a.sharp()
 
 ## Installation
 
-MusicalScaleKit is available through [
+MusicalScaleKit is available through [CocoaPods](
