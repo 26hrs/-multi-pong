@@ -93,4 +93,4 @@ let a_sharp = a.sharp()
 ## Installation
 
 MusicalScaleKit is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your P
+it, simply add the following line to your Podfile:
