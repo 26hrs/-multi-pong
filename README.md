@@ -96,4 +96,5 @@ MusicalScaleKit is available through [CocoaPods](http://cocoapods.org). To insta
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MusicalS
+pod "MusicalScaleKit"
+```
