@@ -101,4 +101,4 @@ pod "MusicalScaleKit"
 
 ## Author
 
-mu
+muukii, m@muuki
