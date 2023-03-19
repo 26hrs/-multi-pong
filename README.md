@@ -103,4 +103,6 @@ pod "MusicalScaleKit"
 
 muukii, m@muukii.me
 
-## L
+## License
+
+MusicalSca
