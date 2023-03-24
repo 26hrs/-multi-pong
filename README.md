@@ -105,4 +105,4 @@ muukii, m@muukii.me
 
 ## License
 
-MusicalSca
+MusicalScaleKit is avai
