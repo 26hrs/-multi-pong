@@ -105,4 +105,4 @@ muukii, m@muukii.me
 
 ## License
 
-MusicalScaleKit is avai
+MusicalScaleKit is available under the
