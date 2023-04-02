@@ -105,4 +105,4 @@ muukii, m@muukii.me
 
 ## License
 
-MusicalScaleKit is available under the MIT license.
+MusicalScaleKit is available under the MIT license. See the
